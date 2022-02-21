@@ -17,8 +17,8 @@ global.APIKeys = {
 
 global.ownername = 'owner - sanzy'
 global.owner = ['6281276698054']
-global.packname = 'Sanzy'
-global.author = 'Gemoyy'
+global.packname = 'Rohis'
+global.author = 'Ganz'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
